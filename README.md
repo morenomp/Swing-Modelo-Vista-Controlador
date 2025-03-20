@@ -10,7 +10,18 @@ Los apartados que haremos son:
 
 # 👀 **Resultado del programa**
 
+### Menú
 <img src ="./Resultado/1. menu.png" />
+### Crear Planeta
+<img src ="./Resultado/2. crear planeta.png" />
+### Crear Seres
+<img src ="./Resultado/3. crear ser.png" />
+### Borrar Seres
+<img src ="./Resultado/4. eliminar ser.png" />
+### Mostrar Lista de Planetas
+<img src ="./Resultado/5. lista planetas.png" />
+### Mostrar Lista de Seres
+<img src ="./Resultado/6. lista ser.png" />
 
 # 🔗 **Más información**
 
