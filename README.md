@@ -10,7 +10,7 @@ Los apartados que haremos son:
 
 # 👀 **Resultado del programa**
 
-
+<img src ="./1. menu.png" />
 
 # 🔗 **Más información**
 
