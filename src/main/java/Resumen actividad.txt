@@ -1,0 +1,11 @@
+Resumen de la actividad:
+
+	Adaptaremos el código para trabajar con interfaz gráfica (SWING), 	
+	excepciones propias y utilice como estructura de almacenamiento dinámica un 	
+	objeto Hashset. 
+
+	La implementación correcta de las cuatro funcionalidades implicará obtener 	
+	una nota máxima de 8, tanto en el RA5 como en el RA6.
+
+	Para obtener un 10, en esto último tendremos que implementar una función 	
+	adicional (la que sea).
